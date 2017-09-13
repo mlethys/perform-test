@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="thumbnail_size">75dp</dimen>
+    <dimen name="thumbnail_margin">5dp</dimen>
+    <dimen name="top_margin">55dp</dimen>
+    <dimen name="standings_margin">10dp</dimen>
+</resources>
